@@ -1,0 +1,29 @@
+[{
+    "name": "la maison",
+    "user": 0,
+    "id": 84308082791,
+    "starred": false,
+    "created": "2023-03-31"
+  },
+  {
+    "name": "football",
+    "user": 0,
+    "id": 38681942301,
+    "starred": false,
+    "created": "2023-03-31"
+  },
+  {
+    "name": "soccer",
+    "user": 0,
+    "id": 41438970066,
+    "starred": false,
+    "created": "2023-03-31"
+  },
+  {
+    "name": "tennis",
+    "user": 0,
+    "id": 13522455893,
+    "starred": false,
+    "created": "2023-03-31"
+  }
+]
